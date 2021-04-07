@@ -1,0 +1,13 @@
+F:\Code\StructureProgramming\First_Part\Chap_4\bin\Debug\netcoreapp3.1\Chap_4.exe
+F:\Code\StructureProgramming\First_Part\Chap_4\bin\Debug\netcoreapp3.1\Chap_4.deps.json
+F:\Code\StructureProgramming\First_Part\Chap_4\bin\Debug\netcoreapp3.1\Chap_4.runtimeconfig.json
+F:\Code\StructureProgramming\First_Part\Chap_4\bin\Debug\netcoreapp3.1\Chap_4.runtimeconfig.dev.json
+F:\Code\StructureProgramming\First_Part\Chap_4\bin\Debug\netcoreapp3.1\Chap_4.dll
+F:\Code\StructureProgramming\First_Part\Chap_4\bin\Debug\netcoreapp3.1\Chap_4.pdb
+F:\Code\StructureProgramming\First_Part\Chap_4\obj\Debug\netcoreapp3.1\Chap_4.csprojAssemblyReference.cache
+F:\Code\StructureProgramming\First_Part\Chap_4\obj\Debug\netcoreapp3.1\Chap_4.AssemblyInfoInputs.cache
+F:\Code\StructureProgramming\First_Part\Chap_4\obj\Debug\netcoreapp3.1\Chap_4.AssemblyInfo.cs
+F:\Code\StructureProgramming\First_Part\Chap_4\obj\Debug\netcoreapp3.1\Chap_4.csproj.CoreCompileInputs.cache
+F:\Code\StructureProgramming\First_Part\Chap_4\obj\Debug\netcoreapp3.1\Chap_4.dll
+F:\Code\StructureProgramming\First_Part\Chap_4\obj\Debug\netcoreapp3.1\Chap_4.pdb
+F:\Code\StructureProgramming\First_Part\Chap_4\obj\Debug\netcoreapp3.1\Chap_4.genruntimeconfig.cache
