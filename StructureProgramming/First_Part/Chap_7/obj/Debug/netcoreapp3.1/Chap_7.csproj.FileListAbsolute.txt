@@ -11,3 +11,16 @@ F:\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.cs
 F:\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.dll
 F:\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.pdb
 F:\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.genruntimeconfig.cache
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\bin\Debug\netcoreapp3.1\Chap_7.exe
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\bin\Debug\netcoreapp3.1\Chap_7.deps.json
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\bin\Debug\netcoreapp3.1\Chap_7.runtimeconfig.json
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\bin\Debug\netcoreapp3.1\Chap_7.runtimeconfig.dev.json
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\bin\Debug\netcoreapp3.1\Chap_7.dll
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\bin\Debug\netcoreapp3.1\Chap_7.pdb
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.csprojAssemblyReference.cache
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.AssemblyInfoInputs.cache
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.AssemblyInfo.cs
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.csproj.CoreCompileInputs.cache
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.dll
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.pdb
+F:\Github\Code\StructureProgramming\First_Part\Chap_7\obj\Debug\netcoreapp3.1\Chap_7.genruntimeconfig.cache

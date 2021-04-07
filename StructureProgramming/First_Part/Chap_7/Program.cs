@@ -12,6 +12,7 @@ namespace Chap_7
             return sum;
         }*/
         #endregion
+
         #region 7.6
         /*
         static int test_fuction(int x)
@@ -22,17 +23,7 @@ namespace Chap_7
         }*/
         #endregion
 
-        #region
-        /*
-        double pi = 3.14;
-        void pi_func()
-        {
-            pi = 3.1416;
-            return;
-        }*/
-        #endregion
-
-        #region
+        #region 7.8
         /*
         static int max_func(int[] arr, int n)
         {
@@ -52,6 +43,44 @@ namespace Chap_7
         */
         #endregion
 
+        #region 7.8 ex
+        /*
+        static int min_func(int[] arr, int n)
+        {
+            int min = arr[0];
+
+            int i;
+            for (i = 0; i < n; i++)
+            {
+                if (arr[i] < min)
+                {
+                    min= arr[i];
+                }
+            }
+            return min;
+
+        }
+        */
+        #endregion
+
+        #region 7.9
+        /*
+        static void test_arr(int[] arr)
+        {
+            arr[0] = 100;
+            return;
+        }
+        */
+        #endregion
+
+        #region 7.9 ex
+
+        static double areaofCircle(double pi,double radius)
+        {
+            double area = (pi * (radius*radius ));
+            return area;
+        }
+        #endregion
 
         static void Main(string[] args)
         {
@@ -72,7 +101,8 @@ namespace Chap_7
             Console.WriteLine(c);
             */
             #endregion
-            #region
+
+            #region  7.6
             /*
             int x = 10, y = 20, z = 30;
 
@@ -81,7 +111,7 @@ namespace Chap_7
             */
             #endregion
 
-            #region
+            #region 7.8
             /*
             int[] arr = { -100,0,53,22,83,23,89,-132,201,3,85};
             int n = 11;
@@ -91,6 +121,34 @@ namespace Chap_7
             */
             #endregion
 
+            #region 7.8 ex
+            /*
+            int[] arr = { -100, 0, 53, 22, 83, 23, 89, -132, 201, 3, 85 };
+            int n = 11;
+
+            int min = min_func(arr, n);
+            Console.WriteLine(min);
+            */
+            #endregion
+
+            #region 7.9
+            /*
+            int[] arr = { 1, 2, 3, 4, 5 };
+            Console.WriteLine(arr[0]);
+            test_arr(arr);
+            Console.WriteLine(arr[0]);
+            */
+            #endregion
+
+            #region 7.9 ex
+
+            double area, pi = 3.1416, radius;
+            Console.WriteLine("enter radius value : ");
+            radius = Convert.ToDouble(Console.ReadLine());
+
+            area = areaofCircle(pi,radius);
+            Console.WriteLine($"area is : {area:F2}");
+            #endregion
         }
     }
 }
