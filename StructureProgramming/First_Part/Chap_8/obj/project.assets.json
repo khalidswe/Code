@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_8\\Chap_8.csproj",
-      "projectName": "Chap_8",
-      "projectPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_8\\Chap_8.csproj",
+      "projectUniqueName": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_8\\Chap_8_BinarySearch.csproj",
+      "projectName": "Chap_8_BinarySearch",
+      "projectPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_8\\Chap_8_BinarySearch.csproj",
       "packagesPath": "C:\\Users\\khali\\.nuget\\packages\\",
       "outputPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_8\\obj\\",
       "projectStyle": "PackageReference",

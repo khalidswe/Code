@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3rvcGgH9EQpc2dHdr43rDVgu7HonT6qqb7chxYCkNLNXcMwI1C8lIa8DUF8tze88cH6jCAXA4Zgu/YDvISbmA==",
+  "success": true,
+  "projectFilePath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\LeetCodeProblem\\LeetCodeProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

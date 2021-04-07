@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G8wpQ1N8xH6QlM0aBLJSURAGATjWnAZBFhPfOShtJpk9i7yXDNAYQA9pbLh+m51L9nxRQxGhO2pnQd0BEcJeXA==",
+  "dgSpecHash": "4TolXdRczXHxaHGUx0huZ/bpKiJIFZ8mPWwYoTDhhTmnTPFCJZ4RdR0t9UlTw+czeODOjVYDE1VH0b/vc/BFdA==",
   "success": true,
-  "projectFilePath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_5\\Chap_5.csproj",
+  "projectFilePath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_5\\Chap_5_Math.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
   ],

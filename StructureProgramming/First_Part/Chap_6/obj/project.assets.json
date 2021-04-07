@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_6\\Chap_6.csproj",
-      "projectName": "Chap_6",
-      "projectPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_6\\Chap_6.csproj",
+      "projectUniqueName": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_6\\Chap_6_Array.csproj",
+      "projectName": "Chap_6_Array",
+      "projectPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_6\\Chap_6_Array.csproj",
       "packagesPath": "C:\\Users\\khali\\.nuget\\packages\\",
       "outputPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_6\\obj\\",
       "projectStyle": "PackageReference",

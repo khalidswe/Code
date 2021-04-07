@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n9TJ1PFDEiIl2sKCaXtr5cUhDjztQfSgzhqXlWgs6simvtwUDjkBaFduqeOuYUbG6E3e2MIuF4/jAfq9Je4gcA==",
+  "dgSpecHash": "QZYgzTkuLRHKf5vWXWfxE1ceFyN6+qzLODrFpPEkFnNv0K+6rgw7pVJ6xUzWah7ddUKk8gaIDj/6f9m407OTyw==",
   "success": true,
-  "projectFilePath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_3\\Chap_3.csproj",
+  "projectFilePath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_3\\Chap_3_ConditionalLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
   ],

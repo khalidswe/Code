@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_5\\Chap_5.csproj",
-      "projectName": "Chap_5",
-      "projectPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_5\\Chap_5.csproj",
+      "projectUniqueName": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_5\\Chap_5_Math.csproj",
+      "projectName": "Chap_5_Math",
+      "projectPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_5\\Chap_5_Math.csproj",
       "packagesPath": "C:\\Users\\khali\\.nuget\\packages\\",
       "outputPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_5\\obj\\",
       "projectStyle": "PackageReference",

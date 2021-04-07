@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_3\\Chap_3.csproj",
-      "projectName": "Chap_3",
-      "projectPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_3\\Chap_3.csproj",
+      "projectUniqueName": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_3\\Chap_3_ConditionalLogic.csproj",
+      "projectName": "Chap_3_ConditionalLogic",
+      "projectPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_3\\Chap_3_ConditionalLogic.csproj",
       "packagesPath": "C:\\Users\\khali\\.nuget\\packages\\",
       "outputPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_3\\obj\\",
       "projectStyle": "PackageReference",

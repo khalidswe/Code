@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_1\\Chap_1.csproj",
-      "projectName": "Chap_1",
-      "projectPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_1\\Chap_1.csproj",
+      "projectUniqueName": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_1\\Chap_1_FirstProgram.csproj",
+      "projectName": "Chap_1_FirstProgram",
+      "projectPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_1\\Chap_1_FirstProgram.csproj",
       "packagesPath": "C:\\Users\\khali\\.nuget\\packages\\",
       "outputPath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_1\\obj\\",
       "projectStyle": "PackageReference",
