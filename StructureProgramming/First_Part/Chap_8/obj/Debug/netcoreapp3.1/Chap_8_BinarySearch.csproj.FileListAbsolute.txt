@@ -1,0 +1,13 @@
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\bin\Debug\netcoreapp3.1\Chap_8_BinarySearch.exe
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\bin\Debug\netcoreapp3.1\Chap_8_BinarySearch.deps.json
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\bin\Debug\netcoreapp3.1\Chap_8_BinarySearch.runtimeconfig.json
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\bin\Debug\netcoreapp3.1\Chap_8_BinarySearch.runtimeconfig.dev.json
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\bin\Debug\netcoreapp3.1\Chap_8_BinarySearch.dll
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\bin\Debug\netcoreapp3.1\Chap_8_BinarySearch.pdb
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\obj\Debug\netcoreapp3.1\Chap_8_BinarySearch.AssemblyInfoInputs.cache
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\obj\Debug\netcoreapp3.1\Chap_8_BinarySearch.AssemblyInfo.cs
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\obj\Debug\netcoreapp3.1\Chap_8_BinarySearch.csproj.CoreCompileInputs.cache
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\obj\Debug\netcoreapp3.1\Chap_8_BinarySearch.dll
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\obj\Debug\netcoreapp3.1\Chap_8_BinarySearch.pdb
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\obj\Debug\netcoreapp3.1\Chap_8_BinarySearch.genruntimeconfig.cache
+F:\Github\Code\StructureProgramming\First_Part\Chap_8\obj\Debug\netcoreapp3.1\Chap_8_BinarySearch.csprojAssemblyReference.cache

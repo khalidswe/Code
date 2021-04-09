@@ -1,0 +1,13 @@
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\bin\Debug\netcoreapp3.1\LeetCodeProblem.exe
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\bin\Debug\netcoreapp3.1\LeetCodeProblem.deps.json
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\bin\Debug\netcoreapp3.1\LeetCodeProblem.runtimeconfig.json
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\bin\Debug\netcoreapp3.1\LeetCodeProblem.runtimeconfig.dev.json
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\bin\Debug\netcoreapp3.1\LeetCodeProblem.dll
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\bin\Debug\netcoreapp3.1\LeetCodeProblem.pdb
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\obj\Debug\netcoreapp3.1\LeetCodeProblem.csprojAssemblyReference.cache
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\obj\Debug\netcoreapp3.1\LeetCodeProblem.AssemblyInfoInputs.cache
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\obj\Debug\netcoreapp3.1\LeetCodeProblem.AssemblyInfo.cs
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\obj\Debug\netcoreapp3.1\LeetCodeProblem.csproj.CoreCompileInputs.cache
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\obj\Debug\netcoreapp3.1\LeetCodeProblem.dll
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\obj\Debug\netcoreapp3.1\LeetCodeProblem.pdb
+F:\Github\Code\StructureProgramming\First_Part\LeetCodeProblem\obj\Debug\netcoreapp3.1\LeetCodeProblem.genruntimeconfig.cache
