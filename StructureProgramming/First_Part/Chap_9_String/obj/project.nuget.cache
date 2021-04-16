@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWcV2zwdaeV9e+MgnH5nolYVZnmT2zbCKPzMHjElLe5TxBmT7pW+WD62lVoMED1QOmqinZ2elzdqvVI0EjbD6g==",
+  "success": true,
+  "projectFilePath": "F:\\Github\\Code\\StructureProgramming\\First_Part\\Chap_9_String\\Chap_9_String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

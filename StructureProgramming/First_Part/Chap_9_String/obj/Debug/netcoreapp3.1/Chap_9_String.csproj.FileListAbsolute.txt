@@ -1,0 +1,13 @@
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\bin\Debug\netcoreapp3.1\Chap_9_String.exe
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\bin\Debug\netcoreapp3.1\Chap_9_String.deps.json
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\bin\Debug\netcoreapp3.1\Chap_9_String.runtimeconfig.json
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\bin\Debug\netcoreapp3.1\Chap_9_String.runtimeconfig.dev.json
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\bin\Debug\netcoreapp3.1\Chap_9_String.dll
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\bin\Debug\netcoreapp3.1\Chap_9_String.pdb
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\obj\Debug\netcoreapp3.1\Chap_9_String.csprojAssemblyReference.cache
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\obj\Debug\netcoreapp3.1\Chap_9_String.AssemblyInfoInputs.cache
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\obj\Debug\netcoreapp3.1\Chap_9_String.AssemblyInfo.cs
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\obj\Debug\netcoreapp3.1\Chap_9_String.csproj.CoreCompileInputs.cache
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\obj\Debug\netcoreapp3.1\Chap_9_String.dll
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\obj\Debug\netcoreapp3.1\Chap_9_String.pdb
+F:\Github\Code\StructureProgramming\First_Part\Chap_9_String\obj\Debug\netcoreapp3.1\Chap_9_String.genruntimeconfig.cache
