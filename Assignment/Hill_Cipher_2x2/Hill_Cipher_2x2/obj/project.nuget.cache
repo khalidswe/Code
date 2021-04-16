@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxLcOPFg5Gmro6BWEJ5NBg3POVpZjYa1tF/wSZbaC7/Qmep3cq+rFt8Y9i5w0sJ4bInOktRUYUiTIOT5iM/Txw==",
+  "success": true,
+  "projectFilePath": "F:\\Code\\Assignment\\Hill_Cipher_2x2\\Hill_Cipher_2x2\\Hill_Cipher_2x2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

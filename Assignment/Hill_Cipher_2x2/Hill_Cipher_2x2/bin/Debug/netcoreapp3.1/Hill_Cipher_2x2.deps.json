@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hill_Cipher_2x2/1.0.0": {
+        "runtime": {
+          "Hill_Cipher_2x2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hill_Cipher_2x2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
